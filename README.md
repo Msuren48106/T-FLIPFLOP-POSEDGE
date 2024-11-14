@@ -60,5 +60,4 @@ endmodule
 ![WhatsApp Image 2024-10-24 at 11 48 06_8b149d1e](https://github.com/user-attachments/assets/348317a9-9e51-46ab-b68d-2117a6041e22)
 
 **RESULTS**
-implementation of T flipflop using Verilog is successful
-](https://github.com/Msuren48106/D-FLIPDLOP-NEGEDGE.git)
+implementation of T flipflop using Verilog is successful.
